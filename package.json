@@ -1,55 +1,19 @@
 {
-  "main": "index.js",
-  "dependencies": {
-    "array-sort": "^1.0.0",
-    "canvas": "^2.6.1",
-    "dateformat": "^3.0.3",
-    "discord.js": "^11.4.2",
-    "express": "^4.17.1",
-    "guild": "^1.2.2",
-    "ms": "^2.1.2",
-    "node-cmd": "^3.0.0",
-    "pretty-ms": "^7.0.0",
-    "request": "^2.88.2",
-    "table": "^5.4.6",
-    "util": "^0.12.3",
-    "ytdl-core": "^3.1.2"
-  }
-}
-{
-
   "name": "Spam",
-
   "version": "2.1.0",
-
   "description": "Farm Credit ProBot copyright © Angry Black 2020.",
-
   "main": "bot.js",
-
   "scripts": {
-
     "start": "node bot.js"
-
   },
-
   "dependencies": {
-
     "discord.js": "^11.4.2",
-
     "fs": "^0.0.2",
-
     "node-opus": "^0.2.7",
-
     "opusscript": "0.0.6",
-
   "request": "^2.85.0"
-
   },
-
   "engines": {
-
     "node": "8.x"
-
   }
-
 }
